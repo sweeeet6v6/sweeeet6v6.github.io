@@ -2,7 +2,7 @@
 main:
   - title: "Menu1"
     url: /webTestt/
-  - title: "Mesu2"
+  - title: "Menu2"
     url: /webTest3/
   # - title: "Sample Posts"
   #   url: /year-archive/
